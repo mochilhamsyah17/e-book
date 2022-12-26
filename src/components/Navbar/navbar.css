@@ -1,0 +1,25 @@
+#navbar-bg{
+    background-color: rebeccapurple;
+}
+
+.logoIBIK-navbar{
+    max-width: 8vh ;
+    /* border: ridge; */
+}
+
+.titleNavbar{
+    color: white;
+    text-decoration: none;
+    margin-left: 1vh;
+    font-weight: 500;
+    /* margin-top: -10vh;
+    border: ridge; */
+}
+
+.login-btn{
+    margin-right: 1vh;
+}
+
+.navbar-brand{
+    /* border:ridge; */
+}

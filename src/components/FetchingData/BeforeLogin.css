@@ -1,0 +1,30 @@
+.templateCard{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.card{
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-top: 2vh;
+}
+
+.e-book-jurusan{
+    margin-left: 30vh;
+    margin-top: 6vh;
+    margin-right: 30vh;
+    margin-bottom: -4vh;
+}
+
+.e-book-jurusan > p{
+    font-size: 3vh;
+}
+
+.ImgSize{
+    width: 17.9rem;
+    height: 56vh;
+}
+
+.size-deskripsi-card{
+    font-size: 2.3vh;
+}
